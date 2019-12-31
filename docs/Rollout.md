@@ -4,7 +4,7 @@ Rolling out the Baseline into AWS can be done fully automated through the `make 
 
 ## Storing your customisations
 
-It is highly recommended that you fork this repository and commit all chagnes you're doing to the infrastructure to your own repository. This will make sure that you can redeploy your infrastructure easily anytime and selectively update the Baseline from upstream.
+It is highly recommended that you fork this repository and commit all changes you're doing to the infrastructure to your own repository. This will make sure that you can redeploy your infrastructure easily anytime and selectively update the Baseline from upstream.
 
 ## Single Main Account or Split Management Accounts
 
